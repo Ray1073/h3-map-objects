@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 玩游戏产生的
+*.GM1
+*.h3m
+*.sav
