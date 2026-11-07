@@ -1,0 +1,908 @@
+{
+ "-15": {
+  "en": "Creature7U"
+ },
+ "-14": {
+  "en": "Creature7"
+ },
+ "-13": {
+  "en": "Creature6U"
+ },
+ "-12": {
+  "en": "Creature6"
+ },
+ "-11": {
+  "en": "Creature5U"
+ },
+ "-10": {
+  "en": "Creature5"
+ },
+ "-9": {
+  "en": "Creature4U"
+ },
+ "-8": {
+  "en": "Creature4"
+ },
+ "-7": {
+  "en": "Creature3U"
+ },
+ "-6": {
+  "en": "Creature3"
+ },
+ "-5": {
+  "en": "Creature2U"
+ },
+ "-4": {
+  "en": "Creature2"
+ },
+ "-3": {
+  "en": "Creature1U"
+ },
+ "-2": {
+  "en": "Creature1"
+ },
+ "-1": {
+  "en": "None"
+ },
+ "0": {
+  "en": "Pikeman",
+  "cn": "枪兵",
+  "lv": 1,
+  "ai": 80
+ },
+ "1": {
+  "en": "Halberdier",
+  "cn": "戟兵",
+  "lv": 1,
+  "ai": 115
+ },
+ "2": {
+  "en": "Archer",
+  "cn": "弓箭手",
+  "lv": 2,
+  "ai": 126
+ },
+ "3": {
+  "en": "Marksman",
+  "cn": "神射手",
+  "lv": 2,
+  "ai": 184
+ },
+ "4": {
+  "en": "Griffin",
+  "cn": "狮鹫",
+  "lv": 3,
+  "ai": 351
+ },
+ "5": {
+  "en": "RoyalGriffin",
+  "cn": "皇家狮鹫",
+  "lv": 3,
+  "ai": 448
+ },
+ "6": {
+  "en": "Swordsman",
+  "cn": "剑士",
+  "lv": 4,
+  "ai": 445
+ },
+ "7": {
+  "en": "Crusader",
+  "cn": "十字军",
+  "lv": 4,
+  "ai": 588
+ },
+ "8": {
+  "en": "Monk",
+  "cn": "僧侣",
+  "lv": 5,
+  "ai": 485
+ },
+ "9": {
+  "en": "Zealot",
+  "cn": "祭司",
+  "lv": 5,
+  "ai": 750
+ },
+ "10": {
+  "en": "Cavalier",
+  "cn": "骑兵",
+  "lv": 6,
+  "ai": 1946
+ },
+ "11": {
+  "en": "Champion",
+  "cn": "骑士",
+  "lv": 6,
+  "ai": 2100
+ },
+ "12": {
+  "en": "Angel",
+  "cn": "天使",
+  "lv": 7,
+  "ai": 5019
+ },
+ "13": {
+  "en": "Archangel",
+  "cn": "大天使",
+  "lv": 7,
+  "ai": 8776
+ },
+ "14": {
+  "en": "Centaur",
+  "cn": "半人马",
+  "lv": 1,
+  "ai": 100
+ },
+ "15": {
+  "en": "CentaurCaptain",
+  "cn": "半人马首领",
+  "lv": 1,
+  "ai": 138
+ },
+ "16": {
+  "en": "Dwarf",
+  "cn": "矮人",
+  "lv": 2,
+  "ai": 138
+ },
+ "17": {
+  "en": "BattleDwarf",
+  "cn": "战斗矮人",
+  "lv": 2,
+  "ai": 209
+ },
+ "18": {
+  "en": "WoodElf",
+  "cn": "木精灵",
+  "lv": 3,
+  "ai": 234
+ },
+ "19": {
+  "en": "GrandElf",
+  "cn": "大精灵",
+  "lv": 3,
+  "ai": 331
+ },
+ "20": {
+  "en": "Pegasus",
+  "cn": "飞马",
+  "lv": 4,
+  "ai": 518
+ },
+ "21": {
+  "en": "SilverPegasus",
+  "cn": "银飞马",
+  "lv": 4,
+  "ai": 532
+ },
+ "22": {
+  "en": "DendroidGuard",
+  "cn": "枯木卫士",
+  "lv": 5,
+  "ai": 517
+ },
+ "23": {
+  "en": "DendroidSoldier",
+  "cn": "枯木战士",
+  "lv": 5,
+  "ai": 803
+ },
+ "24": {
+  "en": "Unicorn",
+  "cn": "独角兽",
+  "lv": 6,
+  "ai": 1806
+ },
+ "25": {
+  "en": "WarUnicorn",
+  "cn": "独角神兽",
+  "lv": 6,
+  "ai": 2030
+ },
+ "26": {
+  "en": "GreenDragon",
+  "cn": "绿龙",
+  "lv": 7,
+  "ai": 4872
+ },
+ "27": {
+  "en": "GoldDragon",
+  "cn": "金龙",
+  "lv": 7,
+  "ai": 8613
+ },
+ "28": {
+  "en": "Gremlin",
+  "cn": "小妖精",
+  "lv": 1,
+  "ai": 44
+ },
+ "29": {
+  "en": "MasterGremlin",
+  "cn": "大妖精",
+  "lv": 1,
+  "ai": 66
+ },
+ "30": {
+  "en": "StoneGargoyle",
+  "cn": "石像鬼",
+  "lv": 2,
+  "ai": 165
+ },
+ "31": {
+  "en": "ObsidianGargoyle",
+  "cn": "石像怪",
+  "lv": 2,
+  "ai": 201
+ },
+ "32": {
+  "en": "StoneGolem",
+  "cn": "石人",
+  "lv": 3,
+  "ai": 250
+ },
+ "33": {
+  "en": "IronGolem",
+  "cn": "铁人",
+  "lv": 3,
+  "ai": 412
+ },
+ "34": {
+  "en": "Mage",
+  "cn": "法师",
+  "lv": 4,
+  "ai": 570
+ },
+ "35": {
+  "en": "ArchMage",
+  "cn": "大法师",
+  "lv": 4,
+  "ai": 680
+ },
+ "36": {
+  "en": "Genie",
+  "cn": "神怪",
+  "lv": 5,
+  "ai": 884
+ },
+ "37": {
+  "en": "MasterGenie",
+  "cn": "神怪主",
+  "lv": 5,
+  "ai": 942
+ },
+ "38": {
+  "en": "Naga",
+  "cn": "蛇女",
+  "lv": 6,
+  "ai": 2016
+ },
+ "39": {
+  "en": "NagaQueen",
+  "cn": "蛇妖",
+  "lv": 6,
+  "ai": 2840
+ },
+ "40": {
+  "en": "Giant",
+  "cn": "巨人",
+  "lv": 7,
+  "ai": 3718
+ },
+ "41": {
+  "en": "Titan",
+  "cn": "泰坦巨人",
+  "lv": 7,
+  "ai": 7500
+ },
+ "42": {
+  "en": "Imp",
+  "cn": "小怪物",
+  "lv": 1,
+  "ai": 50
+ },
+ "43": {
+  "en": "Familiar",
+  "cn": "怪物",
+  "lv": 1,
+  "ai": 60
+ },
+ "44": {
+  "en": "Gog",
+  "cn": "歌革",
+  "lv": 2,
+  "ai": 159
+ },
+ "45": {
+  "en": "Magog",
+  "cn": "玛各",
+  "lv": 2,
+  "ai": 240
+ },
+ "46": {
+  "en": "HellHound",
+  "cn": "地狱猎犬",
+  "lv": 3,
+  "ai": 357
+ },
+ "47": {
+  "en": "Cerberus",
+  "cn": "三首猎犬",
+  "lv": 3,
+  "ai": 392
+ },
+ "48": {
+  "en": "Demon",
+  "cn": "恶鬼",
+  "lv": 4,
+  "ai": 445
+ },
+ "49": {
+  "en": "HornedDemon",
+  "cn": "长角恶鬼",
+  "lv": 4,
+  "ai": 480
+ },
+ "50": {
+  "en": "PitFiend",
+  "cn": "邪神",
+  "lv": 5,
+  "ai": 765
+ },
+ "51": {
+  "en": "PitLord",
+  "cn": "邪神王",
+  "lv": 5,
+  "ai": 1224
+ },
+ "52": {
+  "en": "Efreeti",
+  "cn": "火精灵",
+  "lv": 6,
+  "ai": 1670
+ },
+ "53": {
+  "en": "EfreetSultan",
+  "cn": "烈火精灵",
+  "lv": 6,
+  "ai": 1848
+ },
+ "54": {
+  "en": "Devil",
+  "cn": "恶魔",
+  "lv": 7,
+  "ai": 5101
+ },
+ "55": {
+  "en": "ArchDevil",
+  "cn": "大恶魔",
+  "lv": 7,
+  "ai": 7115
+ },
+ "56": {
+  "en": "Skeleton",
+  "cn": "骷髅兵",
+  "lv": 1,
+  "ai": 60
+ },
+ "57": {
+  "en": "SkeletonWarrior",
+  "cn": "骷髅勇士",
+  "lv": 1,
+  "ai": 85
+ },
+ "58": {
+  "en": "WalkingDead",
+  "cn": "行尸",
+  "lv": 2,
+  "ai": 98
+ },
+ "59": {
+  "en": "Zombie",
+  "cn": "僵尸",
+  "lv": 2,
+  "ai": 128
+ },
+ "60": {
+  "en": "Wight",
+  "cn": "幽灵",
+  "lv": 3,
+  "ai": 357
+ },
+ "61": {
+  "en": "Wraith",
+  "cn": "阴魂",
+  "lv": 3,
+  "ai": 392
+ },
+ "62": {
+  "en": "Vampire",
+  "cn": "吸血鬼",
+  "lv": 4,
+  "ai": 555
+ },
+ "63": {
+  "en": "VampireLord",
+  "cn": "吸血鬼王",
+  "lv": 4,
+  "ai": 783
+ },
+ "64": {
+  "en": "Lich",
+  "cn": "尸巫",
+  "lv": 5,
+  "ai": 848
+ },
+ "65": {
+  "en": "PowerLich",
+  "cn": "尸巫王",
+  "lv": 5,
+  "ai": 1079
+ },
+ "66": {
+  "en": "BlackKnight",
+  "cn": "暗黑骑士",
+  "lv": 6,
+  "ai": 2087
+ },
+ "67": {
+  "en": "DreadKnight",
+  "cn": "恐怖骑士",
+  "lv": 6,
+  "ai": 2382
+ },
+ "68": {
+  "en": "BoneDragon",
+  "cn": "骨龙",
+  "lv": 7,
+  "ai": 3388
+ },
+ "69": {
+  "en": "GhostDragon",
+  "cn": "鬼龙",
+  "lv": 7,
+  "ai": 4696
+ },
+ "70": {
+  "en": "Troglodyte",
+  "cn": "洞穴人",
+  "lv": 1,
+  "ai": 59
+ },
+ "71": {
+  "en": "InfernalTroglodyte",
+  "cn": "地狱洞穴人",
+  "lv": 1,
+  "ai": 84
+ },
+ "72": {
+  "en": "Harpy",
+  "cn": "鹰身女妖",
+  "lv": 2,
+  "ai": 154
+ },
+ "73": {
+  "en": "HarpyHag",
+  "cn": "鹰身女巫",
+  "lv": 2,
+  "ai": 238
+ },
+ "74": {
+  "en": "Beholder",
+  "cn": "邪眼",
+  "lv": 3,
+  "ai": 336
+ },
+ "75": {
+  "en": "EvilEye",
+  "cn": "毒眼",
+  "lv": 3,
+  "ai": 367
+ },
+ "76": {
+  "en": "Medusa",
+  "cn": "美杜莎",
+  "lv": 4,
+  "ai": 517
+ },
+ "77": {
+  "en": "MedusaQueen",
+  "cn": "美杜莎女王",
+  "lv": 4,
+  "ai": 577
+ },
+ "78": {
+  "en": "Minotaur",
+  "cn": "牛头怪",
+  "lv": 5,
+  "ai": 835
+ },
+ "79": {
+  "en": "MinotaurKing",
+  "cn": "牛头王",
+  "lv": 5,
+  "ai": 1068
+ },
+ "80": {
+  "en": "Manticore",
+  "cn": "蝎狮",
+  "lv": 6,
+  "ai": 1547
+ },
+ "81": {
+  "en": "Scorpicore",
+  "cn": "毒蝎狮",
+  "lv": 6,
+  "ai": 1589
+ },
+ "82": {
+  "en": "RedDragon",
+  "cn": "赤龙",
+  "lv": 7,
+  "ai": 4702
+ },
+ "83": {
+  "en": "BlackDragon",
+  "cn": "黑龙",
+  "lv": 7,
+  "ai": 8721
+ },
+ "84": {
+  "en": "Goblin",
+  "cn": "大耳怪",
+  "lv": 1,
+  "ai": 60
+ },
+ "85": {
+  "en": "Hobgoblin",
+  "cn": "大耳怪王",
+  "lv": 1,
+  "ai": 78
+ },
+ "86": {
+  "en": "WolfRider",
+  "cn": "恶狼骑士",
+  "lv": 2,
+  "ai": 130
+ },
+ "87": {
+  "en": "WolfRaider",
+  "cn": "恶狼斗士",
+  "lv": 2,
+  "ai": 203
+ },
+ "88": {
+  "en": "Orc",
+  "cn": "半兽人",
+  "lv": 3,
+  "ai": 192
+ },
+ "89": {
+  "en": "OrcChieftain",
+  "cn": "半兽人首领",
+  "lv": 3,
+  "ai": 240
+ },
+ "90": {
+  "en": "Ogre",
+  "cn": "食人魔",
+  "lv": 4,
+  "ai": 416
+ },
+ "91": {
+  "en": "OgreMage",
+  "cn": "食人魔王",
+  "lv": 4,
+  "ai": 672
+ },
+ "92": {
+  "en": "Roc",
+  "cn": "大雕",
+  "lv": 5,
+  "ai": 1027
+ },
+ "93": {
+  "en": "Thunderbird",
+  "cn": "雷鸟",
+  "lv": 5,
+  "ai": 1106
+ },
+ "94": {
+  "en": "Cyclops",
+  "cn": "独眼巨人",
+  "lv": 6,
+  "ai": 1266
+ },
+ "95": {
+  "en": "CyclopsKing",
+  "cn": "独眼王",
+  "lv": 6,
+  "ai": 1443
+ },
+ "96": {
+  "en": "Behemoth",
+  "cn": "比蒙",
+  "lv": 7,
+  "ai": 3162
+ },
+ "97": {
+  "en": "AncientBehemoth",
+  "cn": "比蒙巨兽",
+  "lv": 7,
+  "ai": 6168
+ },
+ "98": {
+  "en": "Gnoll",
+  "cn": "狼人",
+  "lv": 1,
+  "ai": 56
+ },
+ "99": {
+  "en": "GnollMarauder",
+  "cn": "大狼人",
+  "lv": 1,
+  "ai": 90
+ },
+ "100": {
+  "en": "Lizardman",
+  "cn": "蜥蜴人",
+  "lv": 2,
+  "ai": 126
+ },
+ "101": {
+  "en": "LizardWarrior",
+  "cn": "蜥蜴勇士",
+  "lv": 2,
+  "ai": 156
+ },
+ "102": {
+  "en": "Gorgon",
+  "cn": "野牛",
+  "lv": 5,
+  "ai": 890
+ },
+ "103": {
+  "en": "MightyGorgon",
+  "cn": "蛮牛",
+  "lv": 5,
+  "ai": 1028
+ },
+ "104": {
+  "en": "SerpentFly",
+  "cn": "毒蝇",
+  "lv": 3,
+  "ai": 268
+ },
+ "105": {
+  "en": "DragonFly",
+  "cn": "龙蝇",
+  "lv": 3,
+  "ai": 312
+ },
+ "106": {
+  "en": "Basilisk",
+  "cn": "蜥蜴",
+  "lv": 4,
+  "ai": 552
+ },
+ "107": {
+  "en": "GreaterBasilisk",
+  "cn": "巨蜥",
+  "lv": 4,
+  "ai": 714
+ },
+ "108": {
+  "en": "Wyvern",
+  "cn": "飞龙",
+  "lv": 6,
+  "ai": 1350
+ },
+ "109": {
+  "en": "WyvernMonarch",
+  "cn": "飞龙王",
+  "lv": 6,
+  "ai": 1518
+ },
+ "110": {
+  "en": "Hydra",
+  "cn": "九头怪",
+  "lv": 7,
+  "ai": 4120
+ },
+ "111": {
+  "en": "ChaosHydra",
+  "cn": "终极九头怪",
+  "lv": 7,
+  "ai": 5931
+ },
+ "112": {
+  "en": "AirElemental",
+  "cn": "气元素",
+  "lv": 2,
+  "ai": 356
+ },
+ "113": {
+  "en": "EarthElemental",
+  "cn": "土元素",
+  "lv": 5,
+  "ai": 330
+ },
+ "114": {
+  "en": "FireElemental",
+  "cn": "火元素",
+  "lv": 4,
+  "ai": 345
+ },
+ "115": {
+  "en": "WaterElemental",
+  "cn": "水元素",
+  "lv": 3,
+  "ai": 315
+ },
+ "116": {
+  "en": "GoldGolem",
+  "cn": "金人",
+  "lv": 5,
+  "ai": 600
+ },
+ "117": {
+  "en": "DiamondGolem",
+  "cn": "钻石人",
+  "lv": 6,
+  "ai": 775
+ },
+ "118": {
+  "en": "Pixie",
+  "cn": "小精灵",
+  "lv": 1,
+  "ai": 55
+ },
+ "119": {
+  "en": "Sprite",
+  "cn": "精灵",
+  "lv": 1,
+  "ai": 95
+ },
+ "120": {
+  "en": "PsychicElemental",
+  "cn": "精神元素",
+  "lv": 6,
+  "ai": 1669
+ },
+ "121": {
+  "en": "MagicElemental",
+  "cn": "魔法元素",
+  "lv": 6,
+  "ai": 2012
+ },
+ "123": {
+  "en": "IceElemental",
+  "cn": "冰元素",
+  "lv": 3,
+  "ai": 380
+ },
+ "125": {
+  "en": "MagmaElemental",
+  "cn": "石元素",
+  "lv": 5,
+  "ai": 490
+ },
+ "127": {
+  "en": "StormElemental",
+  "cn": "雷元素",
+  "lv": 2,
+  "ai": 486
+ },
+ "129": {
+  "en": "EnergyElemental",
+  "cn": "烈火元素",
+  "lv": 4,
+  "ai": 470
+ },
+ "130": {
+  "en": "Firebird",
+  "cn": "火鸟",
+  "lv": 7,
+  "ai": 4547
+ },
+ "131": {
+  "en": "Phoenix",
+  "cn": "凤凰",
+  "lv": 7,
+  "ai": 6721
+ },
+ "132": {
+  "en": "AzureDragon",
+  "cn": "圣龙",
+  "lv": 7,
+  "ai": 78845
+ },
+ "133": {
+  "en": "CrystalDragon",
+  "cn": "水晶龙",
+  "lv": 7,
+  "ai": 39338
+ },
+ "134": {
+  "en": "FaerieDragon",
+  "cn": "紫龙",
+  "lv": 7,
+  "ai": 19580
+ },
+ "135": {
+  "en": "RustDragon",
+  "cn": "毒龙",
+  "lv": 7,
+  "ai": 26433
+ },
+ "136": {
+  "en": "Enchanter",
+  "cn": "魔幻法师",
+  "lv": 6,
+  "ai": 1210
+ },
+ "137": {
+  "en": "Sharpshooter",
+  "cn": "幻影射手",
+  "lv": 4,
+  "ai": 585
+ },
+ "138": {
+  "en": "Halfling",
+  "cn": "投石矮人",
+  "lv": 1,
+  "ai": 75
+ },
+ "139": {
+  "en": "Peasant",
+  "cn": "农民",
+  "lv": 1,
+  "ai": 15
+ },
+ "140": {
+  "en": "Boar",
+  "cn": "野猪",
+  "lv": 2,
+  "ai": 145
+ },
+ "141": {
+  "en": "Mummy",
+  "cn": "木乃伊",
+  "lv": 3,
+  "ai": 270
+ },
+ "142": {
+  "en": "Nomad",
+  "cn": "游牧民",
+  "lv": 3,
+  "ai": 345
+ },
+ "143": {
+  "en": "Rogue",
+  "cn": "盗贼",
+  "lv": 2,
+  "ai": 135
+ },
+ "144": {
+  "en": "Troll",
+  "cn": "恶鬼",
+  "lv": 5,
+  "ai": 1024
+ },
+ "145": {
+  "en": "Catapult"
+ },
+ "146": {
+  "en": "Ballista"
+ },
+ "147": {
+  "en": "FirstAidTent"
+ },
+ "148": {
+  "en": "AmmoCart"
+ },
+ "149": {
+  "en": "ArrowTowers"
+ }
+}
